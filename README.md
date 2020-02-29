@@ -6,10 +6,10 @@ Decision tree is the most powerful and popular tool for classification and predi
 ![alt text](https://www.researchgate.net/profile/Thanh-Nghi_Do/publication/232172450/figure/fig1/AS:300484851191808@1448652579163/Decision-tree-for-the-Weather-dataset.png)
 
 ### Requirements
-javac 1.8.0_121
+- javac 1.8.0_121
 
 ### Recommended IDE
-IntelliJ IDEA
+- IntelliJ IDEA
 
 ### Output
 ```
