@@ -3,7 +3,7 @@
 ### What is decision tree?
 Decision tree is the most powerful and popular tool for classification and prediction. A Decision tree is a flowchart like tree structure, where each internal node denotes a test on an attribute, each branch represents an outcome of the test, and each leaf node (terminal node) holds a class label.
 
-![alt text](https://www.researchgate.net/profile/Thanh-Nghi_Do/publication/232172450/figure/fig1/AS:300484851191808@1448652579163/Decision-tree-for-the-Weather-dataset.png)
+![alt text](https://miro.medium.com/max/1354/1*Y1q49zm6-F7G-SHsMynS7w.png)
 
 ### Requirements
 - javac 1.8.0_121
